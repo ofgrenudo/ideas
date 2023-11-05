@@ -5,3 +5,5 @@ A repository to keep all of my ideas in.
 - WLANMONrs: A rust port of WLANMON that exists as executable I can package and ship to different devices. This would be a really good idea to do either in C or Rust.
 - A command line adventure text adventure tool kit. You know all the basic tools available in a text adventure right? look, inspect, pickup, move, open, carry, read, etc. Integrate those into a toolkit package that alows you interact within the terminal as if you were in a command line adventure.
 
+# Papers / Content
+- A study on the history of unionism and the current / future state of unionism specifically in america.
